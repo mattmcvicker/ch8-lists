@@ -3,7 +3,7 @@
 # Create a *list* of 10 random numbers. Use the `runif()` function to make a 
 # vector of random numbers, then use `as.list()` to convert that to a list
 
-
+ice <- runif(10,1,10)
 # Use `lapply()` to apply the `round()` function to each number, rounding it to 
 # the nearest 0.1 (one decimal place)
 
